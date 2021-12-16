@@ -1,0 +1,22 @@
+{
+	"version":"semidef",
+  "name":"Skull Project 1/1 Edition",
+	"collection":"SkullProject",
+  "description": "Test NFT for jeanmoreman.",
+  "ammount": 1,
+	"image":"https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/1of130.png",
+  "image_url":"https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/1of130.png",
+  "background_color":"fefefe",
+	"model": "https://gateway.pinata.cloud/ipfs/QmRvCHjgkv718piUMjWUAXwcAgh2FUHURysVkqAMtq6rQ1",
+	"model_with_lights": "https://gateway.pinata.cloud/ipfs/QmRvCHjgkv718piUMjWUAXwcAgh2FUHURysVkqAMtq6rQ1",
+	"bgImg": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/cielo.jpg",
+    "attributes":[
+   		{
+			"value":"minted by Nawab"
+		},
+		{
+			"trait_type": "Frame",
+			"value":"Black"
+		}
+	]
+}
