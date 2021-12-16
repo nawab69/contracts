@@ -1,0 +1,42 @@
+{
+	"version":"semidef",
+    "name":"Nawab - 1/130 Edition",
+	"collection":"Nawab",
+    "description": "The work was completed on the 47th anniversary of 2Pac's birthday (June 16, 2018) as a tribute from the artist.\n\rThe canvas, which the artist considers his most important work to date, was auctioned at the UN headquarters in New York, to collaborate with the Scholas Occurrentes Foundation founded by Pope Francis and in which Lionel Messi and U2 singer Bono also collaborate.\n\r The aim of this work is to create a contrast between the icons of popular culture (2pac and Basquiat's crown) and the baroque and renaissance styles, as well as to pay homage to the old European masters: Velázquez, Caravaggio, Rembrant, Rubens.... Rene present 2pac as an angel in reference to his song 'Only God can judge me'.\n\rThe artist wanted to launch his first NFT, paying tribute to the 25th anniversary of Tupac's death. That is why the artwork was minted on September 7, 2021 and going on auction on September 13, 2021 (25th anniversary of the death).",
+    "ammount": 130,
+	"image":"https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/1of130.png",
+	"video": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/1of130.mp4",
+    "image_url":"https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/1of130.png",
+    "background_color":"fefefe",
+	"animation_url":"https://universelle.io/assets/viewer/2",
+	"model": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/1of130.glb",
+	"model_with_lights": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/1of130_include_lights.glb",
+	"bgImg": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/cielo.jpg",
+	"ios_model": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/1of13.usdc",
+    "attributes":[
+		{
+			"display_type": "date",
+			"trait_type": "25th anniversary of the death of Tupac Amaru Shakur",
+			"value": 1631560039
+		},
+   		{
+			"value":"minted by Universelle"
+		},
+		{
+			"trait_type": "Frame",
+			"value":"Black"
+		},
+		{
+			"trait_type": "Crown",
+			"value":"static"
+		},
+		{
+			"trait_type": "Wings",
+			"value":"static"
+		},
+		{
+			"trait_type": "Body",
+			"value":"static"
+		}
+	]
+}
